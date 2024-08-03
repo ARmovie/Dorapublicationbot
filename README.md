@@ -146,7 +146,7 @@ unban  - to unban a use
 
 ### TELAGRAM SUPPORT 
 
-* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/dorapublicationbot)
+* [![𝗗𝗢𝗥𝗔 𝗣𝗨𝗕𝗟𝗜𝗖𝗔𝗧𝗜𝗢𝗡 𝗕𝗢𝗧](https://img.shields.io/static/v1?label=DORA&message=PUBLICATION_BOT&color=critical)](https://telegram.me/dorapublicationbot)
 
 
 
