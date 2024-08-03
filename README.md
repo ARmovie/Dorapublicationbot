@@ -2,7 +2,7 @@
   <img src="assets/logo.jpg">
 </p>
 <h1 align="center">
-  <b>PiroAutoFilterBot</b>
+  <b>DORAAutoFilterBot</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DORA+MOVIE+SEARCH+BOT+!;CREATED+BY+OLAMFILMS!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
