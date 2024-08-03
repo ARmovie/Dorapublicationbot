@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="IMG_20240803_114354_382.jpg">
 </p>
 <h1 align="center">
   <b>DORAAutoFilterBot</b>
